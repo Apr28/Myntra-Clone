@@ -58,10 +58,10 @@ This project was created in collaboration with my fellow teammates. Here's their
 ![alt text](https://bit.ly/3LI947T)
 
 ## Mobile View
-![alt text](https://bit.ly/3LI947T)
+![alt text](https://bit.ly/3JbVR5C)
 
 ## Tab view
-![alt text](https://bit.ly/3LI947T)
+![alt text](https://bit.ly/3vgumTN)
 
 
 
