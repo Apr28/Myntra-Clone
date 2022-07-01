@@ -24,6 +24,23 @@ This project was created in collaboration with my fellow teammates. Here's their
 ### Here's the deplyoment link https://rad-manatee-0e439b.netlify.app
 <br>
 
+
+<h1>Features</h1>
+<ul> 
+    <li>Homepage with Responsive Navbar</li>
+    <li>Men, Women and Home & Living Product pages</li>
+    <li>Single Product display page</li>
+    <li>Cart & wishlist page</li>
+    <li>Login & Signup</li>
+    <li>Media Queries</li>
+    <li>Dark/Light Mode</li>
+</ul>
+
+<h1>My Roles</h1>
+<ul>
+    <p>Product Page | Media Queries | Confetti effect | Navbar | Web design</p>
+</ul>
+
   
 ## Below is a little glimpse of what we've created
 
